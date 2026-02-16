@@ -1,5 +1,5 @@
 
-# Demo Repository
+# Demo Repsitory
 
 🚀 This is a demo repository for the Version Control Essentials course.
 
@@ -13,4 +13,4 @@
 
 ### This is a test FEATURE 
 
-## Made fix from DEV branch.
+## Made fix from DEV branch!
